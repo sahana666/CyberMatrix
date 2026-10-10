@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LandShield Backend
 
 FastAPI + SQLAlchemy + SQLite backend for LandShield (hackathon demo, synthetic data only).
@@ -17,3 +18,7 @@ uvicorn app.main:app --reload
 ```
 - Health check: http://127.0.0.1:8000/health
 - Interactive docs: http://127.0.0.1:8000/docs
+=======
+# LandShield
+🛡️ LandShield – A smart land protection and property risk investigation platform featuring property search, risk assessment, document analysis, ownership and survey evidence review, alerts, and land visit reminders.
+>>>>>>> landshield/main
